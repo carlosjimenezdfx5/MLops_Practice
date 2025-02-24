@@ -1,0 +1,47 @@
+{
+  "os":  "macOS-15.1.1-arm64-arm-64bit",
+  "python":  "3.10.16",
+  "startedAt":  "2025-01-27T19:53:05.720980Z",
+  "args":  [
+    "--file_url",
+    "https://raw.githubusercontent.com/ageron/handson-ml/master/datasets/housing/housing.csv",
+    "--artifact_name",
+    "raw_data.csv",
+    "--artifact_type",
+    "raw_data",
+    "--artifact_description",
+    "'Dataset for housing prices'"
+  ],
+  "program":  "/Users/danieljimenez/Documents/Projects/Personal_Projects/Machine_Learning_Devops_10_Days/day1/1-download_dataset/main.py",
+  "codePath":  "day1/1-download_dataset/main.py",
+  "git":  {
+    "remote":  "git@github-personal:carlosjimenez88M/Machine_Learning_Devops_10_Days.git",
+    "commit":  "d0b42e7d129696b5ed35168dad1871299d9353d0"
+  },
+  "email":  "danieljimenez88m@gmail.com",
+  "root":  "/Users/danieljimenez/Documents/Projects/Personal_Projects/Machine_Learning_Devops_10_Days/day1/1-download_dataset",
+  "host":  "macbookpro.lan",
+  "username":  "danieljimenez",
+  "executable":  "/opt/homebrew/Caskroom/miniforge/base/envs/mlflow-fb74fc6621559204007ca093147be243f17fded8/bin/python",
+  "codePathLocal":  "main.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "452449865728"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  10
+  },
+  "gpuapple":  {
+    "gpuType":  "Apple M1 Pro",
+    "vendor":  "sppci_vendor_Apple",
+    "cores":  16
+  }
+}
