@@ -1,0 +1,39 @@
+name: MLflow_Mentoring
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - openssl=3.3.0=hd75f5a5_0
+  - pip=24.0
+  - python=3.10.14
+  - pip:
+      - gunicorn==22.0.0
+      - importlib-metadata==7.1.0
+      - itsdangerous==2.2.0
+      - jinja2==3.1.4
+      - joblib==1.4.2
+      - markupsafe==2.1.5
+      - matplotlib==3.8.4
+      - mlflow==2.12.2
+      - numpy==1.26.4
+      - packaging==24.0
+      - pandas==2.2.2
+      - pillow==10.3.0
+      - protobuf==4.25.3
+      - pyarrow==15.0.2
+      - pyparsing==3.1.2
+      - python-dateutil==2.9.0.post0
+      - requests==2.31.0
+      - scikit-learn==1.4.2
+      - scipy==1.13.0
+      - six==1.16.0
+      - smmap==5.0.1
+      - sqlalchemy==2.0.30
+      - sqlparse==0.5.0
+      - threadpoolctl==3.5.0
+      - typing-extensions==4.11.0
+      - tzdata==2024.1
+      - urllib3==2.2.1
+      - werkzeug==3.0.3
+      - zipp==3.18.1
+
